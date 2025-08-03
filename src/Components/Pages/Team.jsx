@@ -37,8 +37,8 @@ export default function Team() {
                   </div>
                 </div>
                 <div className="text-center p-4">
-                  <h5 className="mb-0">Mr. John Deo</h5>
-                  <small>MERN Stack Devloper</small>
+                  <h5 className="mb-0">D.Jerwin Titus</h5>
+                  <small>Web Designer & Developer</small>
                 </div>
               </div>
             </div>
@@ -67,8 +67,8 @@ export default function Team() {
                   </div>
                 </div>
                 <div className="text-center p-4">
-                  <h5 className="mb-0">Mrs. Shradha</h5>
-                  <small>Web Designer & Devloper</small>
+                  <h5 className="mb-0">Deva Prasanna Prince D</h5>
+                  <small>Back End Developer</small>
                 </div>
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function Team() {
                   </div>
                 </div>
                 <div className="text-center p-4">
-                  <h5 className="mb-0">Mr. Bobby Ficher</h5>
+                  <h5 className="mb-0">S Zidane</h5>
                   <small>Data Structure & Algorithms</small>
                 </div>
               </div>
@@ -127,7 +127,7 @@ export default function Team() {
                   </div>
                 </div>
                 <div className="text-center p-4">
-                  <h5 className="mb-0">Mrs. Manvi</h5>
+                  <h5 className="mb-0">Seshagiridharan</h5>
                   <small>C and C++</small>
                 </div>
               </div>

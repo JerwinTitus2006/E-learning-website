@@ -60,7 +60,7 @@ export default function Contact() {
                 </div>
                 <div className="ms-3">
                   <h5 className="text-primary">Office</h5>
-                  <p className="mb-0">DSCET chennai,Tamil Nadu</p>
+                  <p className="mb-0">Coimbatore,Tamil Nadu</p>
                 </div>
               </div>
               <div className="d-flex align-items-center mb-3">
@@ -72,7 +72,7 @@ export default function Contact() {
                 </div>
                 <div className="ms-3">
                   <h5 className="text-primary">Mobile</h5>
-                  <p className="mb-0">+91 705 088 9705</p>
+                  <p className="mb-0">+91 63801 63817</p>
                 </div>
               </div>
               <div className="d-flex align-items-center">
@@ -84,7 +84,7 @@ export default function Contact() {
                 </div>
                 <div className="ms-3">
                   <h5 className="text-primary">Email</h5>
-                  <p className="mb-0">basantgoswami7050@gmail.com</p>
+                  <p className="mb-0">titusjerwin@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@ export default function Contact() {
             >
               <iframe
                 className="position-relative rounded w-100 h-100"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4327.512444698837!2d80.17810250948644!3d12.620432297105136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a53ab5250243c71%3A0xbb338ff75412f3f5!2sDhanalakshmi%20Srinivasan%20College%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sin!4v1710127521636!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.359883011698!2d76.74148607504415!3d10.936163989222495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba866bd6aaaaaab%3A0xc650b8a75e7b51f0!2sKarunya%20Institute%20of%20Technology%20and%20Sciences%20(Deemed%20University)!5e0!3m2!1sen!2sin!4v1744290100594!5m2!1sen!2sin"
                 frameBorder={0}
                 style={{ minHeight: "300px", border: 0 }}
                 allowFullScreen

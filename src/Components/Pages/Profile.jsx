@@ -71,7 +71,7 @@ export default function Profile() {
                         Full Stack Developer
                       </p>
                       <p className="text-muted mb-4">
-                        Chennai, Tamilnadu, India
+                        Coimbatore, Tamilnadu, India
                       </p>
                       {/* <div className="d-flex justify-content-center mb-2">
                                                 <MDBBtn>Follow</MDBBtn>
@@ -93,7 +93,7 @@ export default function Profile() {
                             icon="github fa-lg"
                             style={{ color: "#333333" }}
                           />
-                          <MDBCardText>basant-goswami</MDBCardText>
+                          <MDBCardText>Jerwin Titus D</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -176,7 +176,7 @@ export default function Profile() {
                         </MDBCol>
                         <MDBCol sm="9">
                           <MDBCardText className="text-muted">
-                            Chennai, Tamilnadu, India
+                            Coimbatore, Tamilnadu, India
                           </MDBCardText>
                         </MDBCol>
                       </MDBRow>
